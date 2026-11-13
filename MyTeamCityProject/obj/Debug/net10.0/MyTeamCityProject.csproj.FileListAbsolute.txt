@@ -1,0 +1,14 @@
+D:\unik\СТП\Лаб.роб. №3_(Морозова 121-23-1)\Lab3\MyTeamCityProject\bin\Debug\net10.0\MyTeamCityProject.exe
+D:\unik\СТП\Лаб.роб. №3_(Морозова 121-23-1)\Lab3\MyTeamCityProject\bin\Debug\net10.0\MyTeamCityProject.deps.json
+D:\unik\СТП\Лаб.роб. №3_(Морозова 121-23-1)\Lab3\MyTeamCityProject\bin\Debug\net10.0\MyTeamCityProject.runtimeconfig.json
+D:\unik\СТП\Лаб.роб. №3_(Морозова 121-23-1)\Lab3\MyTeamCityProject\bin\Debug\net10.0\MyTeamCityProject.dll
+D:\unik\СТП\Лаб.роб. №3_(Морозова 121-23-1)\Lab3\MyTeamCityProject\bin\Debug\net10.0\MyTeamCityProject.pdb
+D:\unik\СТП\Лаб.роб. №3_(Морозова 121-23-1)\Lab3\MyTeamCityProject\obj\Debug\net10.0\MyTeamCityProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\unik\СТП\Лаб.роб. №3_(Морозова 121-23-1)\Lab3\MyTeamCityProject\obj\Debug\net10.0\MyTeamCityProject.AssemblyInfoInputs.cache
+D:\unik\СТП\Лаб.роб. №3_(Морозова 121-23-1)\Lab3\MyTeamCityProject\obj\Debug\net10.0\MyTeamCityProject.AssemblyInfo.cs
+D:\unik\СТП\Лаб.роб. №3_(Морозова 121-23-1)\Lab3\MyTeamCityProject\obj\Debug\net10.0\MyTeamCityProject.csproj.CoreCompileInputs.cache
+D:\unik\СТП\Лаб.роб. №3_(Морозова 121-23-1)\Lab3\MyTeamCityProject\obj\Debug\net10.0\MyTeamCityProject.dll
+D:\unik\СТП\Лаб.роб. №3_(Морозова 121-23-1)\Lab3\MyTeamCityProject\obj\Debug\net10.0\refint\MyTeamCityProject.dll
+D:\unik\СТП\Лаб.роб. №3_(Морозова 121-23-1)\Lab3\MyTeamCityProject\obj\Debug\net10.0\MyTeamCityProject.pdb
+D:\unik\СТП\Лаб.роб. №3_(Морозова 121-23-1)\Lab3\MyTeamCityProject\obj\Debug\net10.0\MyTeamCityProject.genruntimeconfig.cache
+D:\unik\СТП\Лаб.роб. №3_(Морозова 121-23-1)\Lab3\MyTeamCityProject\obj\Debug\net10.0\ref\MyTeamCityProject.dll
